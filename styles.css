@@ -1,0 +1,50 @@
+h1 {
+    word-spacing: 220px;
+    padding-left: 100px;
+}
+h3 {
+    padding-left: 30px;
+}
+
+#deportes {
+    text-align: center;
+}
+
+#time {
+    padding-left: 200px;
+}
+
+#age {
+    text-align: center;
+}
+
+#input2 {
+   margin-bottom: 20px;
+}
+
+.country{
+    padding-left: 150px;
+}
+
+.name  {
+    padding-left: 30px;
+}
+
+.imagen {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+.imagen img {
+    width: 150px;
+    height: auto;
+}
+
+.imagen p {
+    margin: 0 20px;
+    width: 30%;
+    font-size: 18px;
+    line-height: 1.6;
+}
